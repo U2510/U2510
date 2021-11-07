@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @U2510
-- 👀 I’m interested in devloping python based projects..
+- 👀 I’m interested in devloping....
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
